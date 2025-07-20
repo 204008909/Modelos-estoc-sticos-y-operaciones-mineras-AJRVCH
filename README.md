@@ -1,1 +1,1 @@
-# Modelos-estoc-sticos-y-operaciones-mineras-AJRVCH
+# Modelos-estocasticos-y-operaciones-mineras-AJRVCH
